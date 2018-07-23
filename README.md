@@ -8,6 +8,6 @@
 
 
 <p align="center">
-  <img src="http://server.myspace-shack.com/d23/926788c0-b225-4d44-a418-723af8201059.png" width="500" height="200" title="screenshot1">
-  <img src="http://server.myspace-shack.com/d23/56b239aa-43f0-4645-af41-8b1b60ba7dd5.png" width="500" height="200" title="screenshot2">
+  <img src="http://server.myspace-shack.com/d23/926788c0-b225-4d44-a418-723af8201059.png" height="500" width="200" title="screenshot1">
+  <img src="http://server.myspace-shack.com/d23/56b239aa-43f0-4645-af41-8b1b60ba7dd5.png" height="500" width="200" title="screenshot2">
 </p>

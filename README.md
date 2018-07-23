@@ -4,10 +4,8 @@
 #it'll be helpfull for  to know about someone availibity in a day.
 
 # you can coustomize it according yourself
-# no third party needed it's completely made by moment .
+#
 
 
-<p align="center">
-  <img src="http://server.myspace-shack.com/d23/926788c0-b225-4d44-a418-723af8201059.png" height="700" width="350" title="screenshot1">
-  <img src="http://server.myspace-shack.com/d23/56b239aa-43f0-4645-af41-8b1b60ba7dd5.png" height="700" width="350" title="screenshot2">
-</p>
+<a href="http://www.myspacegens.com/"><img src="http://server.myspace-shack.com/d23/2eed890a-c1e2-4ad8-b301-0d3091c7ba54.png" border="0" alt="Image Hosted At MyspaceGens"></a>
+<a href="http://www.myspacegens.com/"><img src="http://server.myspace-shack.com/d23/e6f688b4-00d9-4085-98eb-091f0e246a13.png" border="0" alt="Image Hosted At MyspaceGens"></a>

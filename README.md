@@ -5,3 +5,6 @@
 
 # you can coustomize it according yourself
 # no third party needed it's completely made by moment .
+
+![ScreenShot1](https://ibb.co/mP7GEJ)
+![ScreenShot2](https://ibb.co/jLtZ1y)

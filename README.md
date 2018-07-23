@@ -6,5 +6,5 @@
 # you can coustomize it according yourself
 # no third party needed it's completely made by moment .
 
-![ScreenShot1](https://ibb.co/mP7GEJ)
-![ScreenShot2](https://ibb.co/jLtZ1y)
+![ScreenShot1](http://server.myspace-shack.com/d23/926788c0-b225-4d44-a418-723af8201059.png)
+![ScreenShot2](http://server.myspace-shack.com/d23/56b239aa-43f0-4645-af41-8b1b60ba7dd5.png)
